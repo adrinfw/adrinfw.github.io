@@ -22,12 +22,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Work Experience: "Work Experience"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
-
+  Author's home: "https://adrinfw.github.io/"
 
 ################
 # --- Logo --- #
@@ -53,12 +48,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "adrinfabiorenski@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: adrinfw
+  github: "https://github.com/adrinfw"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: Adrin Fabiorenski Wijaya 
+  linkedin: "https://www.linkedin.com/in/adrin-fabiorenski-wijaya/" 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
