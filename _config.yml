@@ -23,7 +23,7 @@ navbar-links:
   About Me: "1-aboutme"
   Work Experience: "2-workexperience"
   Education: "3-education"
-  # Resume = assets/resume.pdf
+  Resume: "4-resume"
 
 ################
 # --- Logo --- #
