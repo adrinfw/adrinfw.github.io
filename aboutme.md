@@ -1,16 +1,27 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Why you'd want to talk data with me
 ---
 
-My name is Adrin Fabiorenski Wijaya. I have the following qualities:
+My name is Adrin Fabiorenski Wijaya, a passionate and dedicated **Data Engineer**. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Strong experience in building robust data pipelines using tools like **Apache Spark**, **Kafka**, and **Airflow**
+- Skilled in transforming messy data into meaningful insights, ensuring data is always **reliable** and **accessible**
+- I thrive in **fast-paced environments** and love collaborating with teams to solve complex data challenges
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I started my journey in the world of data engineering driven by curiosity and a desire to **turn raw data into real value**. My experience spans across:
+
+- **Data ingestion** from various sources (APIs, databases, files)
+- **ETL workflows** that process millions of records daily
+- Working with **distributed systems** to ensure scalability and performance
+
+I'm currently on a mission to master cutting-edge data technologies and help organizations make better, data-driven decisions.
+
+When I’m not engineering data, you can find me learning new tools, experimenting with **LLMs**, or just playing **Valorant** for fun.
+
+Want to know more about my data journey? Let's connect!
