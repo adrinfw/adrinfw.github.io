@@ -20,9 +20,9 @@ author: Adrin Fabiorenski Wijaya
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Work Experience: "workexperience"
-  Education: "education"
+  About Me: "1-aboutme"
+  Work Experience: "2-workexperience"
+  Education: "3-education"
   # Resume = assets/resume.pdf
 
 ################
