@@ -6,7 +6,7 @@ subtitle: Why you'd want to talk data with me
 
 My name is Adrin Fabiorenski Wijaya, a passionate and dedicated **Data Engineer**. I have the following qualities:
 
-- Strong experience in building robust data pipelines using tools like **Apache Spark**, **Kafka**, and **Airflow**
+- Experience in building data pipelines using tools like **Apache Spark**, **Kafka**, and **Airflow**
 - Skilled in transforming messy data into meaningful insights, ensuring data is always **reliable** and **accessible**
 - I thrive in **fast-paced environments** and love collaborating with teams to solve complex data challenges
 
