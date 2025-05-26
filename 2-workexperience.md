@@ -23,7 +23,7 @@ subtitle: My journey as a Data Engineer
 
 ---
 
-### Let's talk!
+<!-- ### Let's talk!
 
 Want to know more about my experience?  
-Feel free to reach out or check out my [GitHub](#) for some of my work.
+Feel free to reach out or check out my [GitHub](#) for some of my work. -->
