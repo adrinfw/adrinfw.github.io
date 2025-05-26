@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Work Experience: "workexperience"
   Education: "education"
-  Author's home: "adrinfw.github.io"
+  # Resume = assets/resume.pdf
 
 ################
 # --- Logo --- #
